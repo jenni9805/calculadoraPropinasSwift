@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "signo-de-dolar.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
